@@ -1,0 +1,13 @@
+<% --> Scriplet Tag, for control flow i.e. for if-else statements, no output
+
+<%= --> Outputs the value into the template
+
+<!-- <% if(kindOfDay==="Saturday" || kindOfDay==="Sunday" ){ %>
+        <h1 style="color: blue">
+            <%= kindOfDay %> ToDo List
+        </h1>
+        <% }else{ %>
+            <h1 style="color:red">
+                <%= kindOfDay %> ToDo List
+            </h1>
+            <% } %> -->  
